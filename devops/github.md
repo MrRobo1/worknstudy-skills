@@ -6,19 +6,19 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'initialisation d'un projet ❌ / ✔️
-- travailler avec des branches ❌ / ✔️
-- faire une PR ❌ / ✔️
-- utiliser git rebase pour faire des commits propres ❌ / ✔️
-- utiliser les gitHub actions ❌ / ✔️
+- l'initialisation d'un projet ✔️
+- travailler avec des branches ✔️
+- faire une PR ✔️
+- utiliser git rebase pour faire des commits propres ✔️
+- utiliser les gitHub actions ❌
 
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[lien github](https://github.com/MrRobo1/The-Good-Corner)
 
 Description :
 
@@ -41,7 +41,7 @@ Description :
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage ✔️
 
 Description:
 
