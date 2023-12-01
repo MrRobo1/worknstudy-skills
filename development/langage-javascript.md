@@ -6,22 +6,39 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
-- les spécifités du mot-clef `this` ❌ / ✔️
+- les `structures` de base du langage ✔️
+- les normes `ecmascript` ✔️
+- l'utilisation de l'`asynchrone` ✔️
+- les spécifités du mot-clef `this` ✔️
 
 ## 💻 Je code en Javascript
 
 ### Un exemple de code commenté ❌ / ✔️
 
 ```javascript
-(e) => mc2;
+// Définition d'un objet utilisateur
+const utilisateur = {
+  id: 1,
+  nom: "Toto",
+  email: "toto@gmail.com",
+  ville: "Strasbourg"
+};
+
+// Fonction pour afficher les détails de l'utilisateur
+function afficherDetailsUtilisateur(user) {
+  console.log("ID :", user.id); // Affiche l'identifiant de l'utilisateur
+  console.log("Nom :", user.nom); // Affiche le nom de l'utilisateur
+  console.log("Email :", user.email); // Affiche l'email de l'utilisateur
+  console.log("Ville :", user.ville); // Affiche la ville de l'utilisateur
+}
+
+// Appel de la fonction pour afficher les détails de l'utilisateur
+afficherDetailsUtilisateur(utilisateur);
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[lien github](https://github.com/MrRobo1/P3-OriginsDigital)
 
 Description :
 
@@ -31,7 +48,7 @@ Description :
 
 Description :
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
+### J'ai utilisé ce langage en environement professionnel ✔️
 
 Description :
 
@@ -44,7 +61,7 @@ Description :
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage ✔️
 
 Description:
 
